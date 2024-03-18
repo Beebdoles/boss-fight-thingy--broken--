@@ -1,0 +1,8 @@
+{
+	"Enabled": true,
+	"Shadows": true,
+	"Color": [1, 0.3333333432674408, 0],
+	"Brightness": 10.899999618530273,
+	"Range": 6,
+	"Class": "PointLight"
+}

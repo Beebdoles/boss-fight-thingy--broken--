@@ -1,0 +1,15 @@
+{
+	"SafeAreaCompatibility": "Enum.SafeAreaCompatibility.FullscreenExtension",
+	"SelectionBehaviorLeft": "Enum.SelectionBehavior.Escape",
+	"ResetOnSpawn": true,
+	"IgnoreGuiInset": true,
+	"SelectionBehaviorUp": "Enum.SelectionBehavior.Escape",
+	"SelectionBehaviorRight": "Enum.SelectionBehavior.Escape",
+	"ZIndexBehavior": "Enum.ZIndexBehavior.Global",
+	"AutoLocalize": true,
+	"DisplayOrder": 0,
+	"SelectionBehaviorDown": "Enum.SelectionBehavior.Escape",
+	"ScreenInsets": "Enum.ScreenInsets.DeviceSafeInsets",
+	"ClipToDeviceSafeArea": true,
+	"Class": "ScreenGui"
+}

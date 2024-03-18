@@ -1,0 +1,7 @@
+{
+	"PrimaryPart": "Workspace\\Boss Backup\\HumanoidRootPart",
+	"LevelOfDetail": "Enum.ModelLevelOfDetail.Automatic",
+	"Class": "Model",
+	"WorldPivot": [-56.50926208496094, 1.3693063259124756, 3.9548771381378174, -1, 0, 0, 0, 1, 0, 0, 0, -1],
+	"ModelStreamingMode": "Enum.ModelStreamingMode.Default"
+}

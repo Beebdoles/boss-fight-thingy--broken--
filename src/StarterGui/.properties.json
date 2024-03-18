@@ -1,0 +1,5 @@
+{
+	"Class": "StarterGui",
+	"ScreenOrientation": "Enum.ScreenOrientation.LandscapeSensor",
+	"ShowDevelopmentGui": true
+}

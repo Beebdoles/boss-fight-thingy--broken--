@@ -1,3 +1,4 @@
+--disable
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local PhaseShifted = ReplicatedStorage:WaitForChild("PhaseShifted")

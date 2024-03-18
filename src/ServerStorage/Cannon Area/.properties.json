@@ -1,0 +1,7 @@
+{
+	"PrimaryPart": "ServerStorage\\Cannon Area\\WarningRing1",
+	"LevelOfDetail": "Enum.ModelLevelOfDetail.Automatic",
+	"Class": "Model",
+	"WorldPivot": [71.59990692138672, -2.950000047683716, 85.94993591308594, 0, 1, 0, -1, 0, 0, 0, 0, 1],
+	"ModelStreamingMode": "Enum.ModelStreamingMode.Default"
+}

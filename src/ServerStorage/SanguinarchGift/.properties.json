@@ -1,0 +1,7 @@
+{
+	"PrimaryPart": "ServerStorage\\SanguinarchGift\\HumanoidRootPart",
+	"LevelOfDetail": "Enum.ModelLevelOfDetail.Automatic",
+	"Class": "Model",
+	"WorldPivot": [-48.50006103515625, -0.20000003278255463, 3.59991455078125, -1, 0, 0, 0, 1, 0, 0, 0, -0.9999983906745911],
+	"ModelStreamingMode": "Enum.ModelStreamingMode.Default"
+}

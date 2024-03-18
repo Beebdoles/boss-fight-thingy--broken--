@@ -1,0 +1,6 @@
+{
+	"LevelOfDetail": "Enum.ModelLevelOfDetail.Automatic",
+	"Class": "Model",
+	"WorldPivot": [-95.85614013671875, 210.3649139404297, -457.6341857910156, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+	"ModelStreamingMode": "Enum.ModelStreamingMode.Default"
+}

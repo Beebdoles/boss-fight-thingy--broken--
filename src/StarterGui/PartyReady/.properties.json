@@ -1,0 +1,14 @@
+{
+	"ScreenInsets": "Enum.ScreenInsets.CoreUISafeInsets",
+	"SelectionBehaviorLeft": "Enum.SelectionBehavior.Escape",
+	"ResetOnSpawn": true,
+	"Class": "ScreenGui",
+	"SelectionBehaviorUp": "Enum.SelectionBehavior.Escape",
+	"SelectionBehaviorRight": "Enum.SelectionBehavior.Escape",
+	"AutoLocalize": true,
+	"DisplayOrder": 0,
+	"SelectionBehaviorDown": "Enum.SelectionBehavior.Escape",
+	"ZIndexBehavior": "Enum.ZIndexBehavior.Global",
+	"SafeAreaCompatibility": "Enum.SafeAreaCompatibility.FullscreenExtension",
+	"ClipToDeviceSafeArea": true
+}

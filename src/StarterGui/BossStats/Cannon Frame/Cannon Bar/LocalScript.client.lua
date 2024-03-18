@@ -1,3 +1,4 @@
+--disable
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local CannonFire = ReplicatedStorage:WaitForChild("CannonFire")
